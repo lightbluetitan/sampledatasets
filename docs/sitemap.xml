@@ -1,0 +1,15 @@
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>/404.html</loc></url>
+<url><loc>/articles/index.html</loc></url>
+<url><loc>/articles/intro_sampledatasets.html</loc></url>
+<url><loc>/authors.html</loc></url>
+<url><loc>/index.html</loc></url>
+<url><loc>/reference/arbuthnot_tbl.html</loc></url>
+<url><loc>/reference/cards_tbl.html</loc></url>
+<url><loc>/reference/cars_df.html</loc></url>
+<url><loc>/reference/index.html</loc></url>
+<url><loc>/reference/mtcars_df.html</loc></url>
+<url><loc>/reference/swiss_df.html</loc></url>
+<url><loc>/reference/usdatasets.html</loc></url>
+</urlset>
+
